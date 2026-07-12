@@ -20,7 +20,6 @@
 - TensorFlow
 - Keras
 - CNN
-- Jupyter Notebook
 
 ---
 
